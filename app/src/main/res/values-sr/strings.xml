@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SQLite To-Do List</string>
+    <string name="enter_item">Unesi zadatak</string>
+    <string name="item">Zadatak</string>
+    <string name="new_item">Novi zadatak</string>
+    <string name="save">Snimi</string>
+    <string name="edit">Izmeni</string>
+    <string name="cancel">Otkaži</string>
+    <string name="icon_edit">iconEdit</string>
+    <string name="icon_delete">iconDelete</string>
+</resources>

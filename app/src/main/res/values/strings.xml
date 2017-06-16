@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SQLite To-Do List</string>
+    <string name="enter_item">Please enter an item</string>
+    <string name="item">Item</string>
+    <string name="new_item">New item</string>
+    <string name="save">Save</string>
+    <string name="edit">Edit</string>
+    <string name="cancel">Cancel</string>
+    <string name="icon_edit">iconEdit</string>
+    <string name="icon_delete">iconDelete</string>
+</resources>
